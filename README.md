@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - I'm from Lyon.
 - I'm student in computer sciences and Working as developper assistant for Bedrock.
 - 🔭 I’m currently working on my associative website ("Fit for All")
-- 🌱 I’m currently learning Angular/Netlify
+- 🌱 I was learning Angular
+-  Actually i mostly work on React Project
